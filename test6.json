@@ -7,5 +7,9 @@
     "website": "https://",
     "twitter": "https://",
     "telegram": "https://"
+  },
+  "creator":{
+    "name":"myWeb",
+    "website":"http://"
   }
 }
