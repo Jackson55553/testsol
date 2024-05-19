@@ -8,11 +8,11 @@
     "twitter": "https://",
     "telegram": "https://"
   },
+  "tags": [
+    "test"
+  ],
   "creator": {
     "name": "myWeb",
     "website": "http://"
-  },
-  "tags": [
-    "test"
-  ]
+  }
 }
