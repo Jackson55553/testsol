@@ -1,0 +1,17 @@
+{
+  "name": "tfe",
+  "symbol": "tfe",
+  "image": "https://arweave.net/jvTUzLBiGPuiFpMpSjK4FjsdQIHKbLvHcX9GYpZ_lUg",
+  "description": "test tfe token",
+  "extensions": {
+    "website": "https://",
+    "twitter": "https://",
+    "telegram": "https://"
+  },
+  "tags": [
+    "Meme"
+  ],
+  "creator": {
+    "name": "token for ever",
+    "site": "https://"
+  }
