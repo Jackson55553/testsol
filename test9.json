@@ -1,18 +1,18 @@
 {
-  "name": "tfe",
-  "symbol": "tfe",
+  "name": "tokenforever9",
+  "symbol": "TFE",
   "image": "https://arweave.net/jvTUzLBiGPuiFpMpSjK4FjsdQIHKbLvHcX9GYpZ_lUg",
   "description": "test tfe token",
   "extensions": {
-    "website": "https://",
-    "twitter": "https://",
-    "telegram": "https://"
+    "website": "https://myweb.com",
+    "twitter": "https://myweb.com",
+    "telegram": "https://myweb.com"
   },
   "tags": [
     "test"
   ],
   "creator": {
     "name": "myWeb",
-    "website": "http://"
+    "website": "https://myweb.com"
   }
 }
